@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slot Block renders Slot 1`] = `
+.c0 {
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+<div
+  className="c0"
+/>
+`;
